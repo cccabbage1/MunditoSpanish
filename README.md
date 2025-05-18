@@ -25,7 +25,6 @@ Mundito Spanish is a web application designed to make learning Spanish fun and e
 ## Features
 
 -   **Authentication System**: Secure user registration and login via Laravel Breeze
--   **Interactive Learning Modules**: Spanish vocabulary, grammar, and pronunciation lessons
 -   **Progress Tracking**: Track learning progress over time
 -   **Responsive Design**: Tailwind CSS for a fully responsive experience
 -   **Hybrid Frontend**: Blade templates with Alpine.js for simple interactions, React components for complex interactive elements
